@@ -1,0 +1,13 @@
+﻿<Window x:Class="Prostokaty.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Mościcka -  zadanie 4 wpf " Height="350" Width="525"
+        MouseLeftButtonDown="LeftDown"
+        MouseLeftButtonUp="LeftUp"
+        MouseMove="Move"
+        KeyDown="KeyPressed"
+        Background="gold">
+    <Canvas Name="canvas">
+        
+    </Canvas>
+</Window>

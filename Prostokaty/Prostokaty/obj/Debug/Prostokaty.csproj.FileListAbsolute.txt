@@ -1,0 +1,27 @@
+c:\users\paweł\documents\visual studio 2013\Projects\Prostokaty\Prostokaty\bin\Debug\Prostokaty.exe.config
+c:\users\paweł\documents\visual studio 2013\Projects\Prostokaty\Prostokaty\bin\Debug\Prostokaty.exe
+c:\users\paweł\documents\visual studio 2013\Projects\Prostokaty\Prostokaty\bin\Debug\Prostokaty.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\Prostokaty\Prostokaty\obj\Debug\Prostokaty.csprojResolveAssemblyReference.cache
+c:\users\paweł\documents\visual studio 2013\Projects\Prostokaty\Prostokaty\obj\Debug\MainWindow.baml
+c:\users\paweł\documents\visual studio 2013\Projects\Prostokaty\Prostokaty\obj\Debug\MainWindow.g.cs
+c:\users\paweł\documents\visual studio 2013\Projects\Prostokaty\Prostokaty\obj\Debug\App.g.cs
+c:\users\paweł\documents\visual studio 2013\Projects\Prostokaty\Prostokaty\obj\Debug\Prostokaty_MarkupCompile.cache
+c:\users\paweł\documents\visual studio 2013\Projects\Prostokaty\Prostokaty\obj\Debug\Prostokaty.g.resources
+c:\users\paweł\documents\visual studio 2013\Projects\Prostokaty\Prostokaty\obj\Debug\Prostokaty.Properties.Resources.resources
+c:\users\paweł\documents\visual studio 2013\Projects\Prostokaty\Prostokaty\obj\Debug\Prostokaty.csproj.GenerateResource.Cache
+c:\users\paweł\documents\visual studio 2013\Projects\Prostokaty\Prostokaty\obj\Debug\Prostokaty.exe
+c:\users\paweł\documents\visual studio 2013\Projects\Prostokaty\Prostokaty\obj\Debug\Prostokaty.pdb
+C:\Users\HP\Downloads\Mościcka_wpf4\Prostokaty\Prostokaty\bin\Debug\Prostokaty.exe.config
+C:\Users\HP\Downloads\Mościcka_wpf4\Prostokaty\Prostokaty\bin\Debug\Prostokaty.exe
+C:\Users\HP\Downloads\Mościcka_wpf4\Prostokaty\Prostokaty\bin\Debug\Prostokaty.pdb
+C:\Users\HP\Downloads\Mościcka_wpf4\Prostokaty\Prostokaty\obj\Debug\Prostokaty.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Mościcka_wpf4\Prostokaty\Prostokaty\obj\Debug\MainWindow.baml
+C:\Users\HP\Downloads\Mościcka_wpf4\Prostokaty\Prostokaty\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Downloads\Mościcka_wpf4\Prostokaty\Prostokaty\obj\Debug\App.g.cs
+C:\Users\HP\Downloads\Mościcka_wpf4\Prostokaty\Prostokaty\obj\Debug\Prostokaty_MarkupCompile.cache
+C:\Users\HP\Downloads\Mościcka_wpf4\Prostokaty\Prostokaty\obj\Debug\Prostokaty.g.resources
+C:\Users\HP\Downloads\Mościcka_wpf4\Prostokaty\Prostokaty\obj\Debug\Prostokaty.Properties.Resources.resources
+C:\Users\HP\Downloads\Mościcka_wpf4\Prostokaty\Prostokaty\obj\Debug\Prostokaty.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Mościcka_wpf4\Prostokaty\Prostokaty\obj\Debug\Prostokaty.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Mościcka_wpf4\Prostokaty\Prostokaty\obj\Debug\Prostokaty.exe
+C:\Users\HP\Downloads\Mościcka_wpf4\Prostokaty\Prostokaty\obj\Debug\Prostokaty.pdb
